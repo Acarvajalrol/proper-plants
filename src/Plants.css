@@ -1,0 +1,23 @@
+.plants {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+ol {
+  padding: 0;
+  width: 10rem;
+}
+
+.addToCartButton {
+  width: 100%;
+}
+
+button a.hover {
+  border-color: red;
+  border-style: double;
+}
+
+.plantEmoji {
+  font-size: 2rem;
+}

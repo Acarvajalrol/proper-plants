@@ -1,0 +1,20 @@
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+p {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 1rem;
+  margin: 0.5rem;
+}
+
+.buttons {
+  display: flex;
+  gap: 1rem;
+}
+
+button {
+  width: 3rem;
+}
